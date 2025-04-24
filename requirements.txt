@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+evaluate
+sacrebleu
+tqdm
+accelerate
+scikit-learn
+psutil
